@@ -8,17 +8,16 @@
     <path d="M110,60C110,87.429 87.429,110 60,110" style="fill:none;fill-rule:nonzero;stroke:url(#_Linear5);stroke-width:8px;"/>
     <path d="M60,100L60,120L40,110L60,100Z" style="fill:url(#_Linear6);fill-rule:nonzero;"/>
     <g transform="matrix(1,0,0,1,2.5,10)">
-        <path d="M35,45C35,30 50,25 50,35C60,20 80,30 75,45C90,50 85,70 70,70C65,80 45,80 40,70C25,65 30,50 35,45Z" style="fill:none;fill-rule:nonzero;stroke:rgb(30,41,59);stroke-width:5px;stroke-linejoin:round;"/>
-        <g transform="matrix(1,0,0,1,2,3)">
+        <g transform="matrix(2.392857,0,0,2.392857,-69.107143,-69.142857)">
             <circle cx="50" cy="40" r="4" style="fill:rgb(56,189,248);"/>
         </g>
-        <g transform="matrix(1,0,0,1,2,3)">
+        <g transform="matrix(2.392857,0,0,2.392857,-69.107143,-69.142857)">
             <circle cx="65" cy="50" r="4" style="fill:rgb(56,189,248);"/>
         </g>
-        <g transform="matrix(1,0,0,1,2,3)">
+        <g transform="matrix(2.392857,0,0,2.392857,-69.107143,-69.142857)">
             <circle cx="45" cy="60" r="4" style="fill:rgb(56,189,248);"/>
         </g>
-        <g transform="matrix(1,0,0,1,2,3)">
+        <g transform="matrix(2.392857,0,0,2.392857,-69.107143,-69.142857)">
             <path d="M50,40L65,50L45,60L50,40Z" style="fill:none;fill-rule:nonzero;stroke:rgb(56,189,248);stroke-width:2.5px;stroke-linejoin:round;"/>
         </g>
     </g>
